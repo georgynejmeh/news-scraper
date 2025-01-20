@@ -12,3 +12,4 @@ export const skyNewsBreakingNewsEndpoint =
   "https://api.skynewsarabia.com//ajax/alert/ticker.json";
 export const alqahiraNewsEndpoint =
   "https://api.alqaheranews.net/api/posts/published/most-viewed?size=5";
+export const dollarEndpoint = "https://sp-today.com/app_api/cur_damascus.json";
